@@ -1,0 +1,11 @@
+.navbar.bg-secondary {
+    background-color: #343a40;
+}
+
+.navbar .navbar-brand {
+    color: white;
+}
+
+.navbar.bg-secondary .navbar-nav .nav-link {
+    color: rgb(212, 206, 206);
+}
